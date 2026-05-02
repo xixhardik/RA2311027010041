@@ -1,11 +1,4 @@
-RA2311027010041
-
-This repository contains a frontend-track notification project with:
-reusable logging middleware
-Stage 1 priority notification ranking script
-optional basic API proxy server
-React frontend notification dashboard
-
+## RA2311027010041
 Folders 
 
 logging_middleware/
