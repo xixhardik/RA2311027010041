@@ -6,7 +6,7 @@ Stage 1 priority notification ranking script
 optional basic API proxy server
 React frontend notification dashboard
 
-Folder Structure
+Folders 
 
 logging_middleware/
 notification_app_be/
