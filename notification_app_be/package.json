@@ -1,0 +1,13 @@
+{
+  "name": "notification_app_be",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "stage1": "node stage1.js",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2"
+  }
+}
